@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SVG Animation</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/gsap.min.js"></script>
+<style>
+    #svgContainer {
+    width: 448px;
+    height: 154px;
+    position: relative;
+    }
+
+    #svg1,
+    #svg2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    }
+
+    #svg2 {
+    opacity: 0;
+    }
+</style>
+</head>
+<body>
+<div id="svgContainer">
+    <!-- First SVG -->
+    <svg id="svg1" width="448" height="93" viewBox="0 0 448 93" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Your first SVG path here -->
+    </svg>
+    <!-- Second SVG -->
+    <svg id="svg2" width="448" height="93" viewBox="0 0 448 93" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Your second SVG path here -->
+    </svg>
+</div>
+
+<button id="animateButton">Animate</button>
+
+<script src="script.js"></script>
+</body>
+</html>

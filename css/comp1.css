@@ -1,0 +1,99 @@
+.comp1-grid {
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+    grid-template-rows: 80px 70px 60px 50px 40px 30px 20px 10px 5px 5px 5px 10px 20px 30px 40px 50px 60px 70px 80px 80px 70px 60px 50px 40px 30px 20px 10px 5px 5px 5px 10px 20px 30px 40px 50px 60px 70px 80px;
+    justify-content: center;
+    align-content: center;
+    column-gap: 10px;
+    padding-top: 100px;
+}
+
+.right {
+    justify-self: end;
+    align-self: end;
+}
+
+.comp1-grid div {
+    animation-name: fluctuate;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-timing-function: ease-in-out;
+
+    align-self: center;
+}
+
+.comp1-grid div p {
+    animation-name: vary;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-timing-function: ease-in-out;
+
+    font-family: "ivyepic-variable", sans-serif;
+    font-variation-settings: "slnt" -1, "wght" 758, "wdth" 86;
+
+    align-self: center;
+}
+
+
+
+@keyframes vary {
+    0% {
+        font-variation-settings: "slnt" -10, "wght" 758, "wdth" 100;
+    }
+
+    100% {
+        font-variation-settings: "slnt" 0, "wght" 200, "wdth" 100;
+    }
+}
+
+@keyframes fluctuate {
+    0% {
+        transform: translateY(20px);
+    }
+
+    100% {
+        transform: translateY(10px);
+    }
+}
+
+.size-1 {
+    font-size: 6em;
+}
+
+.size-2 {
+    font-size: 4.5em;
+}
+
+.size-3 {
+    font-size: 3.125em;
+}
+
+.size-4 {
+    font-size: 2.34375em;
+}
+
+.size-5 {
+    font-size: 1.7578125em;
+}
+
+.size-6 {
+    font-size: 1.318359375em;
+}
+
+.size-7 {
+    font-size: 0.98876953125em;
+}
+
+.size-8 {
+    font-size: 0.74157714844em;
+}
+
+.size-9 {
+    font-size: 0.55618286133em;
+}
+
+.size-10 {
+    font-size: 0.417137145996em;
+}
