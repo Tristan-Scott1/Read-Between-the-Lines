@@ -1,0 +1,60 @@
+.transition-1 {
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    align-content: center;
+    justify-content: center;
+    padding: 20px;
+
+}
+
+.transition-1 h1 {
+    font-family: "ivyepic-variable", sans-serif;
+    font-variation-settings: "slnt" -1, "wght" 200, "wdth" 100;
+    font-size: 3em;
+    align-self: center;
+    justify-self: center;
+}
+
+.ellipse {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.ellipse span {
+    font-family: "VariableRoboto", sans-serif;
+    font-variation-settings: "XOPQ" 175, "XTRA" 603, "YOPQ" 70, "YTUC" 760, "opsz" 144, "wdth" 151, "wght" 900;
+    font-size: 6em;
+    align-self: center;
+    justify-self: center;
+}
+
+.fade-1 {
+    animation: fade 3s ease-in-out;
+    animation-iteration-count: infinite;
+}
+
+.fade-2 {
+    animation: fade 3s ease-in-out;
+    animation-iteration-count: infinite;
+    animation-delay: .5s;
+}
+
+.fade-3 {
+    animation: fade 3s ease-in-out;
+    animation-iteration-count: infinite;
+    animation-delay: 1s;
+}
+
+@keyframes fade {
+    0% {
+        opacity: 0;
+    }
+
+    50% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
