@@ -3,16 +3,21 @@
     grid-template-rows: 1fr 1fr 1fr 1fr;
     align-content: center;
     justify-content: center;
-    padding: 20px;
+    padding: 70px;
 
 }
 
 .transition-1 h1 {
     font-family: "ivyepic-variable", sans-serif;
-    font-variation-settings: "slnt" -1, "wght" 200, "wdth" 100;
+    font-variation-settings: "slnt" 0, "wght" 200, "wdth" 50;
     font-size: 3em;
     align-self: center;
     justify-self: center;
+    
+}
+
+.preserve {
+    white-space: pre-wrap;
 }
 
 .ellipse {

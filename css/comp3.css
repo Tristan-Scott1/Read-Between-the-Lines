@@ -10,7 +10,7 @@
     align-content: center;
     justify-content: center;
     font-size: 6em;
-    transform: translate(0%, 50%);
+    transform: translate(0%, -20%);
 }
 
 .letter {
@@ -34,120 +34,241 @@
     top: 0;
     left: 0;
     transform:  translate(0%, 0%);
+
+    animation-name: boomi1;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
+
 }
 
 #i2 {
     bottom: 0;
     right: 0;
     transform:  translate(-5%, -5%);
+
+    animation-name: boomi2;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #i3 {
     top: 0;
     right: 0;
     transform:  translate(-10%, -10%);
+
+    animation-name: boomi3;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #i4 {
     bottom: 0;
     left: 0;
     transform:  translate(-15%, -15%);
+
+    animation-name: boomi4;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #i5 {
     top: 0;
     left: 0;
     transform:  translate(-20%, -20%);
+
+    animation-name: boomi5;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #i6 {
     bottom: 0;
     right: 0;
     transform:  translate(-25%, -25%);
+
+    animation-name: boomi6;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #i7 {
     top: 0;
     right: 0;
     transform:  translate(-30%, -30%);
+
+    animation-name: boomi7;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #i8 {
     bottom: 0;
     left: 0;
     transform:  translate(-35%, -35%);
+
+    animation-name: boomi8;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #i9 {
     top: 0;
     left: 0;
     transform:  translate(-40%, -40%);
+
+    animation-name: boomi9;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #i10 {
     bottom: 0;
     right: 0;
     transform:  translate(-45%, -45%);
+
+    animation-name: boomi10;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #i11 {
     top: 0;
     right: 0;
     transform:  translate(-50%, -50%);
+
+    animation-name: boomi11;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #i12 {
     bottom: 0;
     left: 0;
     transform:  translate(-55%, -55%);
+
+    animation-name: boomi12;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #i13 {
     top: 0;
     left: 0;
     transform:  translate(-60%, -60%);
+
+    animation-name: boomi13;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }   
 
 #i14 {
     bottom: 0;
     right: 0;
     transform:  translate(-65%, -65%);
+
+    animation-name: boomi14;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #i15 {
     top: 0;
     right: 0;
     transform:  translate(-70%, -70%);
+
+    animation-name: boomi15;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #i16 {
     bottom: 0;
     left: 0;
     transform:  translate(-75%, -75%);
+
+    animation-name: boomi16;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #i17 {
     top: 0;
     left: 0;
     transform:  translate(-80%, -80%);
+
+    animation-name: boomi17;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #i18 {
     bottom: 0;
     right: 0;
     transform:  translate(-85%, -85%);
+
+    animation-name: boomi18;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #i19 {
     top: 0;
     right: 0;
     transform:  translate(-90%, -90%);
+
+    animation-name: boomi19;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #i20 {
     bottom: 0;
     left: 0;
     transform:  translate(-95%, -95%);
+
+    animation-name: boomi20;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #n1, #n2, #n3, #n4, #n5, #n6, #n7, #n8, #n9, #n10, #n11, #n12, #n13, #n14, #n15, #n16, #n17, #n18, #n19, #n20{
@@ -159,120 +280,240 @@
     top: 0;
     left: 0;
     transform:  translate(-30%, -60%);
+
+    animation-name: boomn1;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #n2 {
     top: 0;
     left: 0;
     transform:  translate(-27.8%, -64%);
+
+    animation-name: boomn2;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #n3 {
     top: 0;
     left: 0;
     transform:  translate(-25.6%, -68%);
+
+    animation-name: boomn3;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #n4 {
     top: 0;
     left: 0;
     transform:  translate(-23.4%, -72%);
+
+    animation-name: boomn4;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #n5 {
     top: 0;
     left: 0;
     transform:  translate(-21.2%, -76%);
+
+    animation-name: boomn5;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #n6 {
     top: 0;
     left: 0;
     transform:  translate(-19%, -80%);
+
+    animation-name: boomn6;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #n7 {
     top: 0;
     left: 0;
     transform:  translate(-16.8%, -84%);
+
+    animation-name: boomn7;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #n8 {
     top: 0;
     left: 0;
     transform:  translate(-14.6%, -88%);
+
+    animation-name: boomn8;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #n9 {
     top: 0;
     left: 0;
     transform:  translate(-12.4%, -92%);
+
+    animation-name: boomn9;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #n10 {
     top: 0;
     left: 0;
     transform:  translate(-10.2%, -96%);
+
+    animation-name: boomn10;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #n11 {
     top: 0;
     left: 0;
     transform:  translate(-8%, -100%);
+
+    animation-name: boomn11;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #n12 {
     top: 0;
     left: 0;
     transform:  translate(-5.8%, -104%);
+
+    animation-name: boomn12;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #n13 {
     top: 0;
     left: 0;
     transform:  translate(-3.6%, -108%);
+
+    animation-name: boomn13;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #n14 {
     top: 0;
     left: 0;
     transform:  translate(-1.4%, -112%);
+
+    animation-name: boomn14;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #n15 {
     top: 0;
     left: 0;
     transform:  translate(0.8%, -116%);
+
+    animation-name: boomn15;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #n16 {
     top: 0;
     left: 0;
     transform:  translate(3%, -120%);
+
+    animation-name: boomn16;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #n17 {
     top: 0;
     left: 0;
     transform:  translate(5.2%, -124%);
+
+    animation-name: boomn17;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #n18 {
     top: 0;
     left: 0;
     transform:  translate(7.4%, -128%);
+
+    animation-name: boomn18;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #n19 {
     top: 0;
     left: 0;
     transform:  translate(9.6%, -132%);
+
+    animation-name: boomn19;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #n20 {
     top: 0;
     left: 0;
     transform:  translate(11.8%, -136%);
+
+    animation-name: boomn20;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 
@@ -288,120 +529,240 @@
     top: 0;
     left: 0;
     transform:  translate(-35%, -35%);
+
+    animation-name: boomc1;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #c2 {
     top: 0;
     left: 0;
     transform:  translate(-38%, -33%);
+
+    animation-name: boomc2;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #c3 {
     top: 0;
     left: 0;
     transform:  translate(-41%, -31%);
+
+    animation-name: boomc3;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #c4 {
     top: 0;
     left: 0;
     transform:  translate(-44%, -29%);
+
+    animation-name: boomc4;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #c5 {
     top: 0;
     left: 0;
     transform:  translate(-47%, -27%);
+
+    animation-name: boomc5;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #c6 {
     top: 0;
     left: 0;
     transform:  translate(-50%, -25%);
+
+    animation-name: boomc6;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #c7 {
     top: 0;
     left: 0;
     transform:  translate(-53%, -23%);
+
+    animation-name: boomc7;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #c8 {
     top: 0;
     left: 0;
     transform:  translate(-56%, -21%);
+
+    animation-name: boomc8;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #c9 {
     top: 0;
     left: 0;
     transform:  translate(-59%, -19%);
+
+    animation-name: boomc9;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #c10 {
     top: 0;
     left: 0;
     transform:  translate(-62%, -17%);
+
+    animation-name: boomc10;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #c11 {
     top: 0;
     left: 0;
     transform:  translate(-65%, -15%);
+
+    animation-name: boomc11;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #c12 {
     top: 0;
     left: 0;
     transform:  translate(-68%, -13%);
+
+    animation-name: boomc12;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #c13 {
     top: 0;
     left: 0;
     transform:  translate(-71%, -11%);
+
+    animation-name: boomc13;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #c14 {
     top: 0;
     left: 0;
     transform:  translate(-74%, -9%);
+
+    animation-name: boomc14;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #c15 {
     top: 0;
     left: 0;
     transform:  translate(-77%, -7%);
+
+    animation-name: boomc15;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #c16 {
     top: 0;
     left: 0;
     transform:  translate(-80%, -5%);
+
+    animation-name: boomc16;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #c17 {
     top: 0;
     left: 0;
     transform:  translate(-83%, -3%);
+
+    animation-name: boomc17;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #c18 {
     top: 0;
     left: 0;
     transform:  translate(-86%, -1%);
+
+    animation-name: boomc18;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #c19 {
     top: 0;
     left: 0;
     transform:  translate(-89%, 1%);
+
+    animation-name: boomc19;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #c20 {
     top: 0;
     left: 0;
     transform:  translate(-92%, 3%);
+
+    animation-name: boomc20;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #a1, #a2, #a3, #a4, #a5, #a6, #a7, #a8, #a9, #a10, #a11, #a12, #a13, #a14, #a15, #a16, #a17, #a18, #a19, #a20{
@@ -413,120 +774,240 @@
     top: 0;
     left: 0;
     transform:  translate(-40%, -30%);
+
+    animation-name: booma1;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #a2 {
     top: 0;
     left: 0;
     transform:  translate(-38%, -28%);
+
+    animation-name: booma2;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #a3 {
     top: 0;
     left: 0;
     transform:  translate(-36%, -26%);
+
+    animation-name: booma3;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #a4 {
     top: 0;
     left: 0;
     transform:  translate(-34%, -24%);
+
+    animation-name: booma4;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #a5 {
     top: 0;
     left: 0;
     transform:  translate(-32%, -22%);
+
+    animation-name: booma5;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #a6 {
     top: 0;
     left: 0;
     transform:  translate(-30%, -20%);
+
+    animation-name: booma6;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #a7 {
     top: 0;
     left: 0;
     transform:  translate(-28%, -18%);
+
+    animation-name: booma7;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #a8 {
     top: 0;
     left: 0;
     transform:  translate(-26%, -16%);
+
+    animation-name: booma8;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #a9 {
     top: 0;
     left: 0;
     transform:  translate(-24%, -14%);
+
+    animation-name: booma9;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #a10 {
     top: 0;
     left: 0;
     transform:  translate(-22%, -12%);
+
+    animation-name: booma10;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #a11 {
     top: 0;
     left: 0;
     transform:  translate(-20%, -10%);
+
+    animation-name: booma11;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #a12 {
     top: 0;
     left: 0;
     transform:  translate(-18%, -8%);
+
+    animation-name: booma12;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #a13 {
     top: 0;
     left: 0;
     transform:  translate(-16%, -6%);
+
+    animation-name: booma13;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #a14 {
     top: 0;
     left: 0;
     transform:  translate(-14%, -4%);
+
+    animation-name: booma14;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #a15 {
     top: 0;
     left: 0;
     transform:  translate(-12%, -2%);
+
+    animation-name: booma15;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #a16 {
     top: 0;
     left: 0;
     transform:  translate(-10%, 0%);
+
+    animation-name: booma16;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #a17 {
     top: 0;
     left: 0;
     transform:  translate(-8%, 2%);
+
+    animation-name: booma17;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #a18 {
     top: 0;
     left: 0;
     transform:  translate(-6%, 4%);
+
+    animation-name: booma18;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #a19 {
     top: 0;
     left: 0;
     transform:  translate(-4%, 6%);
+
+    animation-name: booma19;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #a20 {
     top: 0;
     left: 0;
     transform:  translate(-2%, 8%);
+
+    animation-name: booma20;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 
@@ -541,120 +1022,240 @@
     top: 0;
     left: 0;
     transform:  translate(-20%, -30%);
+
+    animation-name: booms1;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #s2 {
     top: 0;
     left: 0;
     transform:  translate(-17%, -27%);
+
+    animation-name: booms2;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #s3 {
     top: 0;
     left: 0;
     transform:  translate(-14%, -24%);
+
+    animation-name: booms3;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #s4 {
     top: 0;
     left: 0;
     transform:  translate(-11%, -21%);
+
+    animation-name: booms4;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #s5 {
     top: 0;
     left: 0;
     transform:  translate(-8%, -18%);
+
+    animation-name: booms5;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #s6 {
     top: 0;
     left: 0;
     transform:  translate(-5%, -15%);
+
+    animation-name: booms6;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #s7 {
     top: 0;
     left: 0;
     transform:  translate(-2%, -12%);
+
+    animation-name: booms7;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #s8 {
     top: 0;
     left: 0;
     transform:  translate(1%, -9%);
+
+    animation-name: booms8;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #s9 {
     top: 0;
     left: 0;
     transform:  translate(4%, -6%);
+
+    animation-name: booms9;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #s10 {
     top: 0;
     left: 0;
     transform:  translate(7%, -3%);
+
+    animation-name: booms10;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #s11 {
     top: 0;
     left: 0;
     transform:  translate(10%, 0%);
+
+    animation-name: booms11;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #s12 {
     top: 0;
     left: 0;
     transform:  translate(13%, 3%);
+
+    animation-name: booms12;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #s13 {
     top: 0;
     left: 0;
     transform:  translate(16%, 6%);
+
+    animation-name: booms13;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #s14 {
     top: 0;
     left: 0;
     transform:  translate(19%, 9%);
+
+    animation-name: booms14;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #s15 {
     top: 0;
     left: 0;
     transform:  translate(22%, 12%);
+
+    animation-name: booms15;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #s16 {
     top: 0;
     left: 0;
     transform:  translate(25%, 15%);
+
+    animation-name: booms16;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #s17 {
     top: 0;
     left: 0;
     transform:  translate(28%, 18%);
+
+    animation-name: booms17;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #s18 {
     top: 0;
     left: 0;
     transform:  translate(31%, 21%);
+
+    animation-name: booms18;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #s19 {
     top: 0;
     left: 0;
     transform:  translate(34%, 24%);
+
+    animation-name: booms19;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #s20 {
     top: 0;
     left: 0;
     transform:  translate(37%, 27%);
+
+    animation-name: booms20;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #e1, #e2, #e3, #e4, #e5, #e6, #e7, #e8, #e9, #e10, #e11, #e12, #e13, #e14, #e15, #e16, #e17, #e18, #e19, #e20{
@@ -666,139 +1267,1577 @@
     top: 0;
     left: 0;
     transform:  translate(0%, 80%);
+
+    animation-name: boome1;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #e2 {
     top: 0;
     left: 0;
     transform:  translate(4%, 78%);
+
+    animation-name: boome2;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #e3 {
     top: 0;
     left: 0;
     transform:  translate(8%, 76%);
+
+    animation-name: boome3;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #e4 {
     top: 0;
     left: 0;
     transform:  translate(12%, 74%);
+
+    animation-name: boome4;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #e5 {
     top: 0;
     left: 0;
     transform:  translate(16%, 72%);
+
+    animation-name: boome5;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #e6 {
     top: 0;
     left: 0;
     transform:  translate(20%, 70%);
+
+    animation-name: boome6;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #e7 {
     top: 0;
     left: 0;
     transform:  translate(24%, 68%);
+
+    animation-name: boome7;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #e8 {
     top: 0;
     left: 0;
     transform:  translate(28%, 66%);
+
+    animation-name: boome8;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #e9 {
     top: 0;
     left: 0;
     transform:  translate(32%, 64%);
+
+    animation-name: boome9;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #e10 {
     top: 0;
     left: 0;
     transform:  translate(36%, 62%);
+
+    animation-name: boome10;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #e11 {
     top: 0;
     left: 0;
     transform:  translate(40%, 60%);
+
+    animation-name: boome11;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #e12 {
     top: 0;
     left: 0;
     transform:  translate(44%, 58%);
+
+    animation-name: boome12;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #e13 {
     top: 0;
     left: 0;
     transform:  translate(48%, 56%);
+
+    animation-name: boome13;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #e14 {
     top: 0;
     left: 0;
     transform:  translate(52%, 54%);
+
+    animation-name: boome14;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #e15 {
     top: 0;
     left: 0;
     transform:  translate(56%, 52%);
+
+    animation-name: boome15;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #e16 {
     top: 0;
     left: 0;
     transform:  translate(60%, 50%);
+
+    animation-name: boome16;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #e17 {
     top: 0;
     left: 0;
-    transform:  translate(64%, 48%);
+    transform:  translate(64%, 48%);  
+
+    animation-name: boome17;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #e18 {
     top: 0;
     left: 0;
-    transform:  translate(68%, 46%);
+    transform:  translate(68%, 46%); 
+
+    animation-name: boome18;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #e19 {
     top: 0;
     left: 0;
     transform:  translate(72%, 44%);
+
+    animation-name: boome19;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
 }
 
 #e20 {
     top: 0;
     left: 0;
     transform:  translate(76%, 42%);
+
+    animation-name: boome20;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
+    
+
+
 }
 
-@keyframes fadeInOut {
+@keyframes boome20 {
     0% {
-        opacity: 0;
-    }
-
-    10% {
-        opacity: 1;
-    }
-
-    90% {
-        opacity: 1;
+        transform: translate(76%, 42%);
+        
+        
     }
 
     100% {
-        opacity: 0;
+        transform: translate(0%, 80%);
     }
 }
+
+@keyframes boome19 {
+    0% {
+        transform: translate(72%, 44%);
+        
+    }
+
+    100% {
+        transform: translate(0%, 80%);
+    }
+}
+
+@keyframes boome18 {
+    0% {
+        transform: translate(68%, 46%);
+        
+    }
+
+    100% {
+        transform: translate(0%, 80%);
+    }
+}
+
+@keyframes boome17 {
+    0% {
+        transform: translate(64%, 48%);
+        
+    }
+
+    100% {
+        transform: translate(0%, 80%);
+    }
+}
+
+@keyframes boome16 {
+    0% {
+        transform: translate(60%, 50%);
+        
+    }
+
+    100% {
+        transform: translate(0%, 80%);
+    }
+}
+
+@keyframes boome15 {
+    0% {
+        transform: translate(56%, 52%);
+        
+    }
+
+    100% {
+        transform: translate(0%, 80%);
+    }
+}
+
+@keyframes boome14 {
+    0% {
+        transform: translate(52%, 54%);
+        
+    }
+
+    100% {
+        transform: translate(0%, 80%);
+    }
+}
+
+@keyframes boome13 {
+    0% {
+        transform: translate(48%, 56%);
+        
+    }
+
+    100% {
+        transform: translate(0%, 80%);
+    }
+}
+
+@keyframes boome12 {
+    0% {
+        transform: translate(44%, 58%);
+        
+    }
+
+    100% {
+        transform: translate(0%, 80%);
+    }
+}
+
+@keyframes boome11 {
+    0% {
+        transform: translate(40%, 60%);
+        
+    }
+
+    100% {
+        transform: translate(0%, 80%);
+    }
+}
+
+@keyframes boome10 {
+    0% {
+        transform: translate(36%, 62%);
+        
+    }
+
+    100% {
+        transform: translate(0%, 80%);
+    }
+}
+
+@keyframes boome9 {
+    0% {
+        transform: translate(32%, 64%);
+        
+    }
+
+    100% {
+        transform: translate(0%, 80%);
+    }
+}
+
+@keyframes boome8 {
+    0% {
+        transform: translate(28%, 66%);
+        
+    }
+
+    100% {
+        transform: translate(0%, 80%);
+    }
+}
+
+@keyframes boome7 {
+    0% {
+        transform: translate(24%, 68%);
+        
+    }
+
+    100% {
+        transform: translate(0%, 80%);
+    }
+}
+
+@keyframes boome6 {
+    0% {
+        transform: translate(20%, 70%);
+        
+    }
+
+    100% {
+        transform: translate(0%, 80%);
+    }
+}
+
+@keyframes boome5 {
+    0% {
+        transform: translate(16%, 72%);
+        
+    }
+
+    100% {
+        transform: translate(0%, 80%);
+    }
+}
+
+@keyframes boome4 {
+    0% {
+        transform: translate(12%, 74%);
+        
+    }
+
+    100% {
+        transform: translate(0%, 80%);
+    }
+}
+
+@keyframes boome3 {
+    0% {
+        transform: translate(8%, 76%);
+        
+    }
+
+    100% {
+        transform: translate(0%, 80%);
+    }
+}
+
+@keyframes boome2 {
+    0% {
+        transform: translate(4%, 78%);
+        
+    }
+
+    100% {
+        transform: translate(0%, 80%);
+    }
+}
+
+@keyframes boome1 {
+    0% {
+        transform: translate(0%, 80%);
+        
+    }
+
+    100% {
+        transform: translate(0%, 80%);
+    }
+}
+
+@keyframes boomi20 {
+    0% {
+        transform: translate(-95%, -95%);
+        
+    }
+
+    100% {
+        transform: translate(0%, 0%);
+    }
+}
+
+@keyframes boomi19 {
+    0% {
+        transform: translate(-90%, -90%);
+        
+    }
+
+    100% {
+        transform: translate(0%, 0%);
+    }
+}
+
+@keyframes boomi18 {
+    0% {
+        transform: translate(-85%, -85%);
+        
+    }
+
+    100% {
+        transform: translate(0%, 0%);
+    }
+}
+
+@keyframes boomi17 {
+    0% {
+        transform: translate(-80%, -80%);
+        
+    }
+
+    100% {
+        transform: translate(0%, 0%);
+    }
+}
+
+@keyframes boomi16 {
+    0% {
+        transform: translate(-75%, -75%);
+        
+    }
+
+    100% {
+        transform: translate(0%, 0%);
+    }
+}
+
+@keyframes boomi15 {
+    0% {
+        transform: translate(-70%, -70%);
+        
+    }
+
+    100% {
+        transform: translate(0%, 0%);
+    }
+}
+
+@keyframes boomi14 {
+    0% {
+        transform: translate(-65%, -65%);
+        
+    }
+
+    100% {
+        transform: translate(0%, 0%);
+    }
+}
+
+@keyframes boomi13 {
+    0% {
+        transform: translate(-60%, -60%);
+        
+    }
+
+    100% {
+        transform: translate(0%, 0%);
+    }
+}
+
+@keyframes boomi12 {
+    0% {
+        transform: translate(-55%, -55%);
+        
+    }
+
+    100% {
+        transform: translate(0%, 0%);
+    }
+}
+
+@keyframes boomi11 {
+    0% {
+        transform: translate(-50%, -50%);
+        
+    }
+
+    100% {
+        transform: translate(0%, 0%);
+    }
+}
+
+@keyframes boomi10 {
+    0% {
+        transform: translate(-45%, -45%);
+        
+    }
+
+    100% {
+        transform: translate(0%, 0%);
+    }
+}
+
+@keyframes boomi9 {
+    0% {
+        transform: translate(-40%, -40%);
+        
+    }
+
+    100% {
+        transform: translate(0%, 0%);
+    }
+}
+
+@keyframes boomi8 {
+    0% {
+        transform: translate(-35%, -35%);
+        
+    }
+
+    100% {
+        transform: translate(0%, 0%);
+    }
+}
+
+@keyframes boomi7 {
+    0% {
+        transform: translate(-30%, -30%);
+        
+    }
+
+    100% {
+        transform: translate(0%, 0%);
+    }
+}
+
+@keyframes boomi6 {
+    0% {
+        transform: translate(-25%, -25%);
+        
+    }
+
+    100% {
+        transform: translate(0%, 0%);
+    }
+}
+
+@keyframes boomi5 {
+    0% {
+        transform: translate(-20%, -20%);
+        
+    }
+
+    100% {
+        transform: translate(0%, 0%);
+    }
+}
+
+@keyframes boomi4 {
+    0% {
+        transform: translate(-15%, -15%);
+        
+    }
+
+    100% {
+        transform: translate(0%, 0%);
+    }
+}
+
+@keyframes boomi3 {
+    0% {
+        transform: translate(-10%, -10%);
+        
+    }
+
+    100% {
+        transform: translate(0%, 0%);
+    }
+}
+
+@keyframes boomi2 {
+    0% {
+        transform: translate(-5%, -5%);
+        
+    }
+
+    100% {
+        transform: translate(0%, 0%);
+    }
+}
+
+@keyframes boomi1 {
+    0% {
+        transform: translate(0%, 0%);
+        
+    }
+
+    100% {
+        transform: translate(0%, 0%);
+    }
+}
+
+@keyframes boomn20 {
+    0% {
+        transform: translate(11.8%, -136%);
+        
+    }
+
+    100% {
+        transform: translate(-30%, -60%);
+    }
+}
+
+@keyframes boomn19 {
+    0% {
+        transform: translate(9.6%, -132%);
+        
+    }
+
+    100% {
+        transform: translate(-30%, -60%);
+    }
+}
+
+@keyframes boomn18 {
+    0% {
+        transform: translate(7.4%, -128%);
+        
+    }
+
+    100% {
+        transform: translate(-30%, -60%);
+    }
+}
+
+@keyframes boomn17 {
+    0% {
+        transform: translate(5.2%, -124%);
+        
+    }
+
+    100% {
+        transform: translate(-30%, -60%);
+    }
+}
+
+@keyframes boomn16 {
+    0% {
+        transform: translate(3%, -120%);
+        
+    }
+
+    100% {
+        transform: translate(-30%, -60%);
+    }
+}
+
+@keyframes boomn15 {
+    0% {
+        transform: translate(0.8%, -116%);
+        
+    }
+
+    100% {
+        transform: translate(-30%, -60%);
+    }
+}
+
+@keyframes boomn14 {
+    0% {
+        transform: translate(-1.4%, -112%);
+        
+    }
+
+    100% {
+        transform: translate(-30%, -60%);
+    }
+}
+
+@keyframes boomn13 {
+    0% {
+        transform: translate(-3.6%, -108%);
+        
+    }
+
+    100% {
+        transform: translate(-30%, -60%);
+    }
+}
+
+@keyframes boomn12 {
+    0% {
+        transform: translate(-5.8%, -104%);
+        
+    }
+
+    100% {
+        transform: translate(-30%, -60%);
+    }
+}
+
+@keyframes boomn11 {
+    0% {
+        transform: translate(-8%, -100%);
+        
+    }
+
+    100% {
+        transform: translate(-30%, -60%);
+    }
+}
+
+@keyframes boomn10 {
+    0% {
+        transform: translate(-10.2%, -96%);
+        
+    }
+
+    100% {
+        transform: translate(-30%, -60%);
+    }
+}
+
+@keyframes boomn9 {
+    0% {
+        transform: translate(-12.4%, -92%);
+        
+    }
+
+    100% {
+        transform: translate(-30%, -60%);
+    }
+}
+
+@keyframes boomn8 {
+    0% {
+        transform: translate(-14.6%, -88%);
+        
+    }
+
+    100% {
+        transform: translate(-30%, -60%);
+    }
+}
+
+@keyframes boomn7 {
+    0% {
+        transform: translate(-16.8%, -84%);
+        
+    }
+
+    100% {
+        transform: translate(-30%, -60%);
+    }
+}
+
+@keyframes boomn6 {
+    0% {
+        transform: translate(-19%, -80%);
+        
+    }
+
+    100% {
+        transform: translate(-30%, -60%);
+    }
+}
+
+@keyframes boomn5 {
+    0% {
+        transform: translate(-21.2%, -76%);
+        
+    }
+
+    100% {
+        transform: translate(-30%, -60%);
+    }
+}
+
+@keyframes boomn4 {
+    0% {
+        transform: translate(-23.4%, -72%);
+        
+    }
+
+    100% {
+        transform: translate(-30%, -60%);
+    }
+}
+
+@keyframes boomn3 {
+    0% {
+        transform: translate(-25.6%, -68%);
+        
+    }
+
+    100% {
+        transform: translate(-30%, -60%);
+    }
+}
+
+@keyframes boomn2 {
+    0% {
+        transform: translate(-27.8%, -64%);
+        
+    }
+
+    100% {
+        transform: translate(-30%, -60%);
+    }
+}
+
+@keyframes boomn1 {
+    0% {
+        transform: translate(-30%, -60%);
+        
+    }
+
+    100% {
+        transform: translate(-30%, -60%);
+    }
+}
+
+@keyframes boomc20 {
+    0% {
+        transform: translate(-92%, 3%);
+        
+    }
+
+    100% {
+        transform: translate(-35%, -35%);
+    }
+}
+
+@keyframes boomc19 {
+    0% {
+        transform: translate(-89%, 1%);
+        
+    }
+
+    100% {
+        transform: translate(-35%, -35%);
+    }
+}
+
+@keyframes boomc18 {
+    0% {
+        transform: translate(-86%, -1%);
+        
+    }
+
+    100% {
+        transform: translate(-35%, -35%);
+    }
+}
+
+@keyframes boomc17 {
+    0% {
+        transform: translate(-83%, -3%);
+        
+    }
+
+    100% {
+        transform: translate(-35%, -35%);
+    }
+}
+
+@keyframes boomc16 {
+    0% {
+        transform: translate(-80%, -5%);
+        
+    }
+
+    100% {
+        transform: translate(-35%, -35%);
+    }
+}
+
+@keyframes boomc15 {
+    0% {
+        transform: translate(-77%, -7%);
+        
+    }
+
+    100% {
+        transform: translate(-35%, -35%);
+    }
+}
+
+@keyframes boomc14 {
+    0% {
+        transform: translate(-74%, -9%);
+        
+    }
+
+    100% {
+        transform: translate(-35%, -35%);
+    }
+}
+
+@keyframes boomc13 {
+    0% {
+        transform: translate(-71%, -11%);
+        
+    }
+
+    100% {
+        transform: translate(-35%, -35%);
+    }
+}
+
+@keyframes boomc12 {
+    0% {
+        transform: translate(-68%, -13%);
+        
+    }
+
+    100% {
+        transform: translate(-35%, -35%);
+    }
+}
+
+@keyframes boomc11 {
+    0% {
+        transform: translate(-65%, -15%);
+        
+    }
+
+    100% {
+        transform: translate(-35%, -35%);
+    }
+}
+
+@keyframes boomc10 {
+    0% {
+        transform: translate(-62%, -17%);
+        
+    }
+
+    100% {
+        transform: translate(-35%, -35%);
+    }
+}
+
+@keyframes boomc9 {
+    0% {
+        transform: translate(-59%, -19%);
+        
+    }
+
+    100% {
+        transform: translate(-35%, -35%);
+    }
+}
+
+@keyframes boomc8 {
+    0% {
+        transform: translate(-56%, -21%);
+        
+    }
+
+    100% {
+        transform: translate(-35%, -35%);
+    }
+}
+
+@keyframes boomc7 {
+    0% {
+        transform: translate(-53%, -23%);
+        
+    }
+
+    100% {
+        transform: translate(-35%, -35%);
+    }
+}
+
+@keyframes boomc6 {
+    0% {
+        transform: translate(-50%, -25%);
+        
+    }
+
+    100% {
+        transform: translate(-35%, -35%);
+    }
+}
+
+@keyframes boomc5 {
+    0% {
+        transform: translate(-47%, -27%);
+        
+    }
+
+    100% {
+        transform: translate(-35%, -35%);
+    }
+}
+
+@keyframes boomc4 {
+    0% {
+        transform: translate(-44%, -29%);
+        
+    }
+
+    100% {
+        transform: translate(-35%, -35%);
+    }
+}
+
+@keyframes boomc3 {
+    0% {
+        transform: translate(-41%, -31%);
+        
+    }
+
+    100% {
+        transform: translate(-35%, -35%);
+    }
+}
+
+@keyframes boomc2 {
+    0% {
+        transform: translate(-38%, -33%);
+        
+    }
+
+    100% {
+        transform: translate(-35%, -35%);
+    }
+}
+
+@keyframes boomc1 {
+    0% {
+        transform: translate(-35%, -35%);
+        
+    }
+
+    100% {
+        transform: translate(-35%, -35%);
+    }
+}
+
+@keyframes booma20 {
+    0% {
+        transform: translate(-2%, 8%);
+        
+    }
+
+    100% {
+        transform: translate(-40%, -30%);
+    }
+}
+
+@keyframes booma19 {
+    0% {
+        transform: translate(-4%, 6%);
+        
+    }
+
+    100% {
+        transform: translate(-40%, -30%);
+    }
+}
+
+@keyframes booma18 {
+    0% {
+        transform: translate(-6%, 4%);
+        
+    }
+
+    100% {
+        transform: translate(-40%, -30%);
+    }
+}
+
+@keyframes booma17 {
+    0% {
+        transform: translate(-8%, 2%);
+        
+    }
+
+    100% {
+        transform: translate(-40%, -30%);
+    }
+}
+
+@keyframes booma16 {
+    0% {
+        transform: translate(-10%, 0%);
+        
+    }
+
+    100% {
+        transform: translate(-40%, -30%);
+    }
+}
+
+@keyframes booma15 {
+    0% {
+        transform: translate(-12%, -2%);
+        
+    }
+
+    100% {
+        transform: translate(-40%, -30%);
+    }
+}
+
+@keyframes booma14 {
+    0% {
+        transform: translate(-14%, -4%);
+        
+    }
+
+    100% {
+        transform: translate(-40%, -30%);
+    }
+}
+
+@keyframes booma13 {
+    0% {
+        transform: translate(-16%, -6%);
+        
+    }
+
+    100% {
+        transform: translate(-40%, -30%);
+    }
+}
+
+@keyframes booma12 {
+    0% {
+        transform: translate(-18%, -8%);
+        
+    }
+
+    100% {
+        transform: translate(-40%, -30%);
+    }
+}
+
+@keyframes booma11 {
+    0% {
+        transform: translate(-20%, -10%);
+        
+    }
+
+    100% {
+        transform: translate(-40%, -30%);
+    }
+}
+
+@keyframes booma10 {
+    0% {
+        transform: translate(-22%, -12%);
+        
+    }
+
+    100% {
+        transform: translate(-40%, -30%);
+    }
+}
+
+@keyframes booma9 {
+    0% {
+        transform: translate(-24%, -14%);
+        
+    }
+
+    100% {
+        transform: translate(-40%, -30%);
+    }
+}
+
+@keyframes booma8 {
+    0% {
+        transform: translate(-26%, -16%);
+        
+    }
+
+    100% {
+        transform: translate(-40%, -30%);
+    }
+}
+
+@keyframes booma7 {
+    0% {
+        transform: translate(-28%, -18%);
+        
+    }
+
+    100% {
+        transform: translate(-40%, -30%);
+    }
+}
+
+@keyframes booma6 {
+    0% {
+        transform: translate(-30%, -20%);
+        
+    }
+
+    100% {
+        transform: translate(-40%, -30%);
+    }
+}
+
+@keyframes booma5 {
+    0% {
+        transform: translate(-32%, -22%);
+        
+    }
+
+    100% {
+        transform: translate(-40%, -30%);
+    }
+}
+
+@keyframes booma4 {
+    0% {
+        transform: translate(-34%, -24%);
+        
+    }
+
+    100% {
+        transform: translate(-40%, -30%);
+    }
+}
+
+@keyframes booma3 {
+    0% {
+        transform: translate(-36%, -26%);
+        
+    }
+
+    100% {
+        transform: translate(-40%, -30%);
+    }
+}
+
+@keyframes booma2 {
+    0% {
+        transform: translate(-38%, -28%);
+        
+    }
+
+    100% {
+        transform: translate(-40%, -30%);
+    }
+}
+
+@keyframes booma1 {
+    0% {
+        transform: translate(-40%, -30%);
+        
+    }
+
+    100% {
+        transform: translate(-40%, -30%);
+    }
+}
+
+@keyframes booms20 {
+    0% {
+        transform: translate(37%, 27%);
+        
+    }
+
+    100% {
+        transform: translate(-20%, -30%);
+    }
+}
+
+@keyframes booms19 {
+    0% {
+        transform: translate(34%, 24%);
+        
+    }
+
+    100% {
+        transform: translate(-20%, -30%);
+    }
+}
+
+@keyframes booms18 {
+    0% {
+        transform: translate(31%, 21%);
+        
+    }
+
+    100% {
+        transform: translate(-20%, -30%);
+    }
+}
+
+@keyframes booms17 {
+    0% {
+        transform: translate(28%, 18%);
+        
+    }
+
+    100% {
+        transform: translate(-20%, -30%);
+    }
+}
+
+@keyframes booms16 {
+    0% {
+        transform: translate(25%, 15%);
+        
+    }
+
+    100% {
+        transform: translate(-20%, -30%);
+    }
+}
+
+@keyframes booms15 {
+    0% {
+        transform: translate(22%, 12%);
+        
+    }
+
+    100% {
+        transform: translate(-20%, -30%);
+    }
+}
+
+@keyframes booms14 {
+    0% {
+        transform: translate(19%, 9%);
+        
+    }
+
+    100% {
+        transform: translate(-20%, -30%);
+    }
+}
+
+@keyframes booms13 {
+    0% {
+        transform: translate(16%, 6%);
+        
+    }
+
+    100% {
+        transform: translate(-20%, -30%);
+    }
+}
+
+@keyframes booms12 {
+    0% {
+        transform: translate(13%, 3%);
+        
+    }
+
+    100% {
+        transform: translate(-20%, -30%);
+    }
+}
+
+@keyframes booms11 {
+    0% {
+        transform: translate(10%, 0%);
+        
+    }
+
+    100% {
+        transform: translate(-20%, -30%);
+    }
+}
+
+@keyframes booms10 {
+    0% {
+        transform: translate(7%, -3%);
+        
+    }
+
+    100% {
+        transform: translate(-20%, -30%);
+    }
+}
+
+@keyframes booms9 {
+    0% {
+        transform: translate(4%, -6%);
+        
+    }
+
+    100% {
+        transform: translate(-20%, -30%);
+    }
+}
+
+@keyframes booms8 {
+    0% {
+        transform: translate(1%, -9%);
+        
+    }
+
+    100% {
+        transform: translate(-20%, -30%);
+    }
+}
+
+@keyframes booms7 {
+    0% {
+        transform: translate(-2%, -12%);
+        
+    }
+
+    100% {
+        transform: translate(-20%, -30%);
+    }
+}
+
+@keyframes booms6 {
+    0% {
+        transform: translate(-5%, -15%);
+        
+    }
+
+    100% {
+        transform: translate(-20%, -30%);
+    }
+}
+
+@keyframes booms5 {
+    0% {
+        transform: translate(-8%, -18%);
+        
+    }
+
+    100% {
+        transform: translate(-20%, -30%);
+    }
+}
+
+@keyframes booms4 {
+    0% {
+        transform: translate(-11%, -21%);
+        
+    }
+
+    100% {
+        transform: translate(-20%, -30%);
+    }
+}
+
+@keyframes booms3 {
+    0% {
+        transform: translate(-14%, -24%);
+        
+    }
+
+    100% {
+        transform: translate(-20%, -30%);
+    }
+}
+
+@keyframes booms2 {
+    0% {
+        transform: translate(-17%, -27%);
+        
+    }
+
+    100% {
+        transform: translate(-20%, -30%);
+    }
+}
+
+@keyframes booms1 {
+    0% {
+        transform: translate(-20%, -30%);
+        
+    }
+
+    100% {
+        transform: translate(-20%, -30%);
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
