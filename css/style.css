@@ -6,5 +6,37 @@
 
 @import url(transition.css);
 
-body {
+@import url(description.css);
+
+* {
+    box-sizing: border-box;
 }
+
+body, html{
+    min-height: 100vh;
+    margin: 0;
+    background-color: white;
+}
+
+img {
+    max-width: 100%;
+}
+
+header a {
+    color: #000;
+    text-decoration: none;
+    padding: 20px;
+
+    font-size: 1em;
+
+    font-family: "ivyepic-variable", sans-serif;
+    font-variation-settings: "slnt" -1, "wght" 758, "wdth" 86;
+
+    justify-content: right;
+}
+
+header a:hover {
+    color: #6a9bd3;
+}
+
+

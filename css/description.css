@@ -1,0 +1,42 @@
+.description {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    padding: 20px;
+    margin: 20px;
+
+    
+    font-family: "ivyepic-variable", sans-serif;
+    font-variation-settings: "slnt" 0, "wght" 758, "wdth" 86;
+}
+
+.p-container {
+    width: 40%
+}
+
+.description p {
+    font-size: 1em;
+    font-variation-settings: "slnt" 0, "wght" 500, "wdth" 86;
+    line-height: 1.5em;
+}
+
+.description h1 {
+    font-size: 2em;
+}
+
+.description h2 {
+    font-size: 1.5em;
+}
+
+.description a {
+    text-decoration: none;
+    color: #6a9bd3;
+}
+
+.description a:hover {
+    color: #163f6e;
+    text-decoration: underline;
+}
+
